@@ -1,0 +1,14 @@
+body{
+    background-color:  #FA8500;
+}
+h1{
+    color:black;
+    font-family: 'roboto',Times New Roman;
+}
+p{
+    color:#045B41;
+    font-family: "Cormorant Infant", serif;
+    font-optical-sizing: auto;
+    font-weight:800;
+    font-style: normal;
+}
